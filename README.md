@@ -1,5 +1,5 @@
 # Financial-Anomaly-Detection-and-Risk-Analysis
-We will be detecting credit card fraud based on the different features of our dataset
+We will be detecting credit card fraud based on the different features of our dataset.
 
 Summary of Fraud Detection
 
